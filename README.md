@@ -16,5 +16,4 @@ After the pull request is approved then the changes will be merged with master b
 Who to talk to ?
 
 Aila Bogasieru
-Email: 
-aila.bogasieru@ariat.com/aila.bogasieru@gmail.com
+Email: aila.bogasieru@gmail.com
